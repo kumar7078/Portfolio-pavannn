@@ -1,0 +1,47 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background-color: #3b2626;
+  color: #fff;
+  padding: 2em 0;
+  text-align: center;
+  text-shadow:  Black;
+}
+
+header h1 {
+  margin: 0;
+}
+
+main {
+  padding: 2em;
+}
+
+section {
+  margin-bottom: 2em;
+}
+
+img {
+  max-width: 200px;
+  border-radius: 50%;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+.project {
+  margin: 1em 0;
+}
+
+footer {
+  background-color: #5a3a3a;
+  color: #fff;
+  text-align: center;
+  padding: 1em 0;
+}
